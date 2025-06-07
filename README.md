@@ -38,9 +38,6 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ![Yazan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazanmawassi&show_icons=true&theme=github_dark&hide=prs)
 
-## 📚 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanmawassi&layout=compact&theme=github_dark)
 
 ## 📈 GitHub Activity Graph
 
