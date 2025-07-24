@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 - 💡 I love building full-stack applications and mobile apps  
 - 🧠 Areas of interest: Flutter, Node.js, Java, VHDL, Firebase  
 - 🛠 Currently converting native Android apps to Flutter  
-- 🌐 Web enthusiast: WordPress, HTML/CSS, React  
+- 🌐 Web enthusiast: WordPress, HTML/CSS  
 
 ## 🚀 Tech Stack
 
-- **Frontend**: Flutter, HTML, CSS, JavaScript, React  
+- **Frontend**: Flutter, HTML, CSS, JavaScript 
 - **Backend**: Node.js, Express, REST APIs  
 - **Mobile**: Flutter + Dart  
 - **Database**: Firebase, MongoDB, SQLite, MySQL  
