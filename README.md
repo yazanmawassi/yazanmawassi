@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 ## 📫 Contact Me
 
 - 📧 **Email**: yazanmawass135@gmail.com  
-- 💼 **LinkedIn**: [Yazan Mawassi](https://linkedin.com/in/yazan-mawassi)  
+- 💼 **LinkedIn**: [Yazan Mawassi](linkedin.com/in/yazan-mawassi-922119356)  
 - 🌍 **Portfolio (coming soon)**: [https://yazanma.dev](https://yazanma.dev)  
 
 ---
