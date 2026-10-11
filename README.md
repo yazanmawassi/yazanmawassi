@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 ## 🚀 Tech Stack
 
 - **Frontend**: Flutter, HTML, CSS, JavaScript 
-- **Backend**: Node.js, Express, REST APIs  
-- **Mobile**: Flutter + Dart  
+- **Backend**: Node.js, Express, REST APIs    
 - **Database**: Firebase, MongoDB, SQLite, MySQL  
 - **Tools**: Git & GitHub, VS Code, Android Studio, Figma  
 
